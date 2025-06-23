@@ -37,7 +37,7 @@ A simple and efficient task management system built with **React 19**, **Vite**,
 ## Installation
 
 1. **Clone the repository**
-   git clone https://github.com/yourusername/task-management.git
+   git clone https://github.com/HafizHamza01/Assessment
    cd task-management
    npm install
    npm run dev

@@ -17,7 +17,7 @@ Delete tasks that are no longer needed
 
 
 ## Setup Instructions
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/HafizHamza01/Assessment
 
 cd backend/task_management_api
 
